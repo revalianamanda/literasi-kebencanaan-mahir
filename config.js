@@ -5,4 +5,4 @@
    Bila dikosongkan, e-modul tetap berjalan tanpa server
    (jawaban hanya tersimpan di perangkat siswa).
    ============================================================ */
-window.EMOD_API = "";
+window.EMOD_API = "https://script.google.com/macros/s/AKfycbyfkelZFuJD7C2EuOU20nzJGEYXmxGAS5CXPVbvpIfCniXe1pn8c_nzbihe-A9OZLoB3w/exec";
